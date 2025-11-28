@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ProjectReadVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All The Project</h1>
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+@if (TempData["NotFound"] != null)
+{
+    <div class="alert alert-danger">@TempData["NotFound"]</div>
+}
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+               Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                StartDate
+            </th>
+            <th>
+               EndDate
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Name
+                </td>
+            <td>
+                @item.Description
+                </td>
+            <td>
+                @item.StartDate
+                </td>
+            <td>
+                @item.EndDate
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

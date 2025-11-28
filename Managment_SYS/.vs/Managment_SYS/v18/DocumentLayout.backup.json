@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Managment_SYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\projectdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\projectdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\projectcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\projectcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\taskeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\taskeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\task\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\taskdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\taskdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\teammembercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\teammembercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\teammemberdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\teammemberdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\taskcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\taskcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\projecteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\projecteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\teammember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\teammember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\data\\taskmanagementsystemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:data\\taskmanagementsystemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\teammembereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\teammembereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\projectreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\projectreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\taskreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\taskreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\viewmodel\\teammemberreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\teammemberreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\migrations\\taskmanagementsystemdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:migrations\\taskmanagementsystemdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\migrations\\20251125015341_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:migrations\\20251125015341_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|d:\\repos\\managment_sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Edit.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Task\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Task\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T08:36:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectDeleteVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectDeleteVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProjectDeleteVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectDeleteVM.cs",
+              "RelativeToolTip": "ViewModel\\ProjectDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:38:28.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectCreateVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProjectCreateVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectCreateVM.cs",
+              "RelativeToolTip": "ViewModel\\ProjectCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:07:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamMemberController.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Models\\TeamMember.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Models\\TeamMember.cs",
+              "RelativeToolTip": "Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Task\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Delete.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Task\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Task\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T10:54:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskEditVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskEditVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskEditVM.cs",
+              "RelativeToolTip": "ViewModel\\TaskEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:26:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskDeleteVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskDeleteVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskDeleteVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskDeleteVM.cs",
+              "RelativeToolTip": "ViewModel\\TaskDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T08:44:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamMemberCreateVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TeamMemberCreateVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberCreateVM.cs",
+              "RelativeToolTip": "ViewModel\\TeamMemberCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:09:18.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamMemberDeleteVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberDeleteVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TeamMemberDeleteVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberDeleteVM.cs",
+              "RelativeToolTip": "ViewModel\\TeamMemberDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:50:09.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskCreateVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskCreateVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskCreateVM.cs",
+              "RelativeToolTip": "ViewModel\\TaskCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:33:45.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectEditVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProjectEditVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectEditVM.cs",
+              "RelativeToolTip": "ViewModel\\ProjectEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:21:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Index.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Edit.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:31:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Index.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:40:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Edit.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Project\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:19:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Index.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Delete.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Project\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T03:35:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Create.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\TeamMember\\Create.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:16:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskManagementSystemDB.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Data\\TaskManagementSystemDB.cs",
+              "RelativeDocumentMoniker": "Data\\TaskManagementSystemDB.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Data\\TaskManagementSystemDB.cs",
+              "RelativeToolTip": "Data\\TaskManagementSystemDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowFwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:30.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeamMemberEditVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TeamMemberEditVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberEditVM.cs",
+              "RelativeToolTip": "ViewModel\\TeamMemberEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T09:22:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectReadVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProjectReadVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\ProjectReadVM.cs",
+              "RelativeToolTip": "ViewModel\\ProjectReadVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:06:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T01:48:29.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Create.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Task\\Create.cshtml",
+              "RelativeToolTip": "Views\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T07:41:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskReadVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskReadVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TaskReadVM.cs",
+              "RelativeToolTip": "ViewModel\\TaskReadVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeamMemberReadVM.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TeamMemberReadVM.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\ViewModel\\TeamMemberReadVM.cs",
+              "RelativeToolTip": "ViewModel\\TeamMemberReadVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:40:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaskManagementSystemDBModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Migrations\\TaskManagementSystemDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\TaskManagementSystemDBModelSnapshot.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Migrations\\TaskManagementSystemDBModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\TaskManagementSystemDBModelSnapshot.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:56:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20251125015341_initialcreate.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Migrations\\20251125015341_initialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251125015341_initialcreate.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Migrations\\20251125015341_initialcreate.cs",
+              "RelativeToolTip": "Migrations\\20251125015341_initialcreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:53:41.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:48:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Create.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:15:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Managment_SYS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Repos\\Managment_SYS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:40:20.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

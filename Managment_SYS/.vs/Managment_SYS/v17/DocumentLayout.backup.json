@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\teammember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\viewmodel\\teammemberreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\teammemberreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\viewmodel\\taskreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\taskreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\viewmodel\\projectreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:viewmodel\\projectreadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|c:\\users\\sd\\source\\repos\\managment_sys\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69B2D410-D330-47F6-B985-CBEC1B8582C9}|Managment_SYS.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T12:53:48.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskReadVM.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\TaskReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TaskReadVM.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\TaskReadVM.cs",
+              "RelativeToolTip": "ViewModel\\TaskReadVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:52:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\TeamMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\TeamMember\\Index.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T12:46:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\TeamMember.cs",
+              "RelativeToolTip": "Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:45:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:34:08.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:43:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "Views\\Task\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T12:42:27.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectReadVM.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\ProjectReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ProjectReadVM.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\ProjectReadVM.cs",
+              "RelativeToolTip": "ViewModel\\ProjectReadVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:41:24.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T12:40:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T12:39:53.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\TeamMemberController.cs*",
+              "RelativeToolTip": "Controllers\\TeamMemberController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:38:28.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\TaskController.cs*",
+              "RelativeToolTip": "Controllers\\TaskController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:35:51.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamMemberReadVM.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\TeamMemberReadVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TeamMemberReadVM.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\ViewModel\\TeamMemberReadVM.cs*",
+              "RelativeToolTip": "ViewModel\\TeamMemberReadVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:28:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\sd\\source\\repos\\Managment_SYS\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T12:26:11.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
